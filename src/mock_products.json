@@ -1,0 +1,36 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "label": "Adidas Original",
+      "price": 47,
+      "quantity": 43,
+      "image": "https://images-na.ssl-images-amazon.com/images/I/715L9BwE9tL._SY355_.jpg",
+      "alt": "sport pull"
+    },
+    {
+      "id": 2,
+      "label": "Adidas Original",
+      "price": 89,
+      "quantity": 30,
+      "image": "https://images-na.ssl-images-amazon.com/images/I/715L9BwE9tL._SY355_.jpg",
+      "alt": "sport pull"
+    },
+    {
+      "id": 3,
+      "label": "Adidas Original",
+      "price": 23,
+      "quantity": 15,
+      "image": "https://images-na.ssl-images-amazon.com/images/I/715L9BwE9tL._SY355_.jpg",
+      "alt": "sport pull"
+    },
+    {
+      "id": 4,
+      "label": "Adidas Original",
+      "price": 47,
+      "quantity": 60,
+      "image": "https://images-na.ssl-images-amazon.com/images/I/715L9BwE9tL._SY355_.jpg",
+      "alt": "sport pull"
+    }
+  ]
+}
